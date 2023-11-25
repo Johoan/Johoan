@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Johoan
-- 👀 I’m interested in software development and cloud computing
-- 🌱 I’m currently learning Frontend development using HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on software development projects using the above track and cloud computing projects on google cloud platform
+- 👀 I’m interested in software development, WordPress Development, SEO and cloud computing
+- 🌱 I’ve learned Frontend development with HTML, CSS, JavaScript, JQuery, WordPress CMS
+- 💞️ I’m looking to collaborate on software or WordPress development projects using the above track and cloud computing projects on google cloud platform
 - 📫 How to reach me - johoantoech@yahoo.com
 
 <!---
